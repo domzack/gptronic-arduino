@@ -1,0 +1,25 @@
+# Arquivos e pastas comuns para projetos Arduino e VS Code
+
+# Compilados Arduino
+*.hex
+*.elf
+*.bin
+
+# Diretórios de build
+build/
+*.cpp.o
+*.d
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Backup do editor
+*~
